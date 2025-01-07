@@ -1,0 +1,8 @@
+# Node.js dependencies
+node_modules/
+
+# TypeScript compiled output
+dist/
+build/
+.env
+package-lock.json
